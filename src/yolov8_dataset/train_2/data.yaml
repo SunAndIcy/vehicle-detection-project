@@ -1,0 +1,5 @@
+names:
+  0: car
+  1: license_plate
+path: .
+train: train.txt

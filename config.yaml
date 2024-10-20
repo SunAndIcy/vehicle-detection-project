@@ -1,0 +1,10 @@
+# Path configuration (use absolute paths)
+train: /Users/handongdong/Downloads/train_2/images  # Path to the folder containing training set images
+val: /Users/handongdong/Downloads/train_2/images    # Path to the folder containing validation set images (if no validation set, you can use the same path as the training set)
+
+# Number of classes
+nc: 2  # Number of classes, car and license plate
+
+# Class names
+names: ['car', 'license_plate']  # Class names
+.
